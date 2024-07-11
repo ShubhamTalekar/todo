@@ -1,0 +1,1 @@
+web gunicorn totoprj.wsgi:application --log-file -
